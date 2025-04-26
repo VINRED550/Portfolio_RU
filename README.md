@@ -187,7 +187,7 @@
   </li>
   <li><h3>N</h3>
     <ul type="square">
-      <li>AdvancedBan</li>
+      <li>*empty*</li>
     </ul>
   </li>
   <li><h3>O</h3>
@@ -302,12 +302,12 @@
   </li>
   <li><h3>X</h3>
     <ul type="square">
-      <li>AdvancedBan</li>
+      <li>*empty*</li>
     </ul>
   </li>
   <li><h3>Y</h3>
     <ul type="square">
-      <li>AdvancedBan</li>
+      <li>*empty*</li>
     </ul>
   </li>
   <li><h3>Z</h3>
