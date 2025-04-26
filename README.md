@@ -22,7 +22,7 @@
   </li>
   <li><h3>E</h3>
     <ul type="square">
-      <li>AdvancedBan</li>
+      <li>EssentialsX</li>
     </ul>
   </li>
   <li><h3>F</h3>
@@ -57,7 +57,7 @@
   </li>
   <li><h3>L</h3>
     <ul type="square">
-      <li>AdvancedBan</li>
+      <li>LuckPerms</li>
     </ul>
   </li>
   <li><h3>M</h3>
@@ -92,7 +92,8 @@
   </li>
   <li><h3>S</h3>
     <ul type="square">
-      <li>AdvancedBan</li>
+      <li>SkinsRestorer</li>
+      <li>Simple Tpa</li>
     </ul>
   </li>
   <li><h3>T</h3>
@@ -107,7 +108,8 @@
   </li>
   <li><h3>V</h3>
     <ul type="square">
-      <li>AdvancedBan</li>
+      <li>ViaVersion</li>
+      <li>ViaBackwards</li>
     </ul>
   </li>
   <li><h3>W</h3>
